@@ -1,0 +1,7 @@
+﻿name,type,character,shift,common_action,description,function,size_x,size_y
+ze,letter,z,Z,writes letter z,,,1,1
+xis,letter,x,X,writes letter x,,,1,1
+ce,letter,c,C,writes letter c,,,1,1
+comma,punctuation mark,",",<,writes a comma,"both characters on the left, comma lower than symbol of less than ",,1,1
+shift,command,,,Change the size of the letters or use the top character,,,3,1
+f1,command,,,ask for help,"no-sound icon with F1 writen on down-right, top-right has a led light that turns red when wound is off",turns on/off the sound,0.8,0.5
